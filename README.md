@@ -1,0 +1,2 @@
+# HelloScala
+Scala learning.
